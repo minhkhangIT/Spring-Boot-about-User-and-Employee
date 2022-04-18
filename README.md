@@ -1,5 +1,5 @@
-# Spring Boot-User-and-Employee
-View, Add, Edit and Delete 2 entity User and Employee
+# Spring Boot Having User and Employee
+- View, Add, Edit and Delete 2 entity User and Employee
 
 ### 1) Prepare database name: spring_app
 ### 2) Create table user following script:
